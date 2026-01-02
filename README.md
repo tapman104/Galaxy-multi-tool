@@ -1,94 +1,119 @@
 /Galaxy_Knox_Client.apk
-🌌 Galaxy Multi Tool (GMT)
+Sure 👍
+Here is the **same README**, but with the wording **explicitly framed as *personal research*** (safer + clearer intent).
+You can **replace your current README.md with this**.
 
-Galaxy Multi Tool (GMT) is a lightweight Android utility toolkit focused on ADB-based operations and Samsung Galaxy / Knox-related tools.
-This repository primarily hosts prebuilt APK releases for easy download and use.
+---
 
-📦 Repository Contents
+# 🌌 Galaxy Multi Tool (GMT)
 
-APK Releases (recommended)
+**Galaxy Multi Tool (GMT)** is a lightweight Android utility created **strictly for personal research, learning, and experimentation** with Android ADB workflows and Samsung Galaxy / Knox–related behaviors.
 
-Minimal repository files (no complex build system)
+This repository is used **only to distribute prebuilt APKs** for research and testing purposes.
 
-Simple distribution via GitHub Releases
+---
 
-🚀 Latest Release
+## 🎯 Purpose
 
-Gmt adb apk v2
+This project exists **for personal research and educational analysis only**, including:
+
+* Understanding Android ADB behavior
+* Studying Samsung Galaxy / Knox client interactions
+* Learning how Android tools communicate with devices
+* Experimenting on **personally owned test devices**
+
+🚫 **Not intended for commercial use, resale, or misuse**
+
+---
+
+## 📦 Repository Contents
+
+* Prebuilt APK files distributed via GitHub Releases
+* Minimal repository structure
+* No public build system or source compilation workflow
+
+---
+
+## 🚀 Latest Release
+
+**Gmt adb apk v2**
 📅 Released: December 2025
 
-Included APKs
+### Included APKs
 
-Galaxy_Knox_Client.apk
-→ Samsung Knox / Galaxy-related client utility
+* **Galaxy_Knox_Client.apk**
+  → Research client for Galaxy / Knox-related testing
+* **GMT_Applet.apk**
+  → ADB-based helper app for experimental use
 
-GMT_Applet.apk
-→ Main GMT ADB helper application
+➡️ Download from: **Releases → Gmt adb apk v2 (Latest)**
 
-Download from the Releases section 👉
-Releases → Gmt adb apk v2 (Latest)
+---
 
-📥 Download
+## 📥 Download Instructions
 
-Go to:
+1. Open the **Releases** section
+2. Select the latest release
+3. Download APK files from **Assets**
 
-Releases → Assets
+> ⚠️ Download only from the official GitHub Releases page
 
+---
 
-Available files:
+## 📱 Installation (Research Devices Only)
 
-Galaxy_Knox_Client.apk
+1. Install the APK on a **personally owned test device**
+2. Enable **Install unknown apps**
+3. (Optional) Enable **USB Debugging** for ADB experiments
 
-GMT_Applet.apk
+---
 
-⚠️ Always download APKs only from the official Releases section to avoid tampered files.
+## 🔐 APK Integrity Verification
 
-🔐 Integrity (SHA-256)
+Each release includes a **SHA-256 checksum**.
+Verify downloads using:
 
-Each APK in the release includes a SHA-256 checksum shown on GitHub.
-You can verify the APK after download using:
-
+```bash
 sha256sum Galaxy_Knox_Client.apk
 sha256sum GMT_Applet.apk
+```
 
+---
 
-Match the output with the checksum shown on the release page.
+## ⚠️ Important Disclaimer (Personal Research Only)
 
-📱 Installation
+> This project is provided **strictly for personal research and educational purposes**.
 
-Download the APK from Releases
+* Use **only on devices you own or have explicit permission to test**
+* Do **NOT** use on production devices
+* Do **NOT** attempt to bypass security mechanisms illegally
+* Samsung Knox may be permanently tripped
+* Data loss or device instability is possible
 
-Enable Install unknown apps on your Android device
+**You assume all responsibility for usage.**
 
-Install the APK normally
+---
 
-(Optional) Enable USB Debugging if using ADB features
+## 📄 License
 
-🛠 Requirements (For ADB Features)
+Provided **as-is**, without warranty.
+No support or guarantees are implied.
 
-Android device with USB Debugging enabled
+---
 
-ADB-enabled PC (Windows / Linux / macOS)
+## ⭐ Notes
 
-USB cable or authorized wireless ADB
+* This is a **research-oriented project**
+* Updates may be infrequent
+* Features may change or be removed without notice
 
-⚠️ Disclaimer
+---
 
-This tool is intended for educational and personal use only.
+If you want, I can:
 
-Do NOT use on devices you do not own or have permission to modify
+* 🔹 Make this even **more legally conservative**
+* 🔹 Add a **Research Ethics section**
+* 🔹 Create a **short “About” text for GitHub sidebar**
+* 🔹 Add a **Knox-warning banner**
 
-Improper use may:
-
-Void warranty
-
-Trip Samsung Knox
-
-Cause data loss
-
-You are fully responsible for how you use this tool
-
-📄 License
-
-This project is provided as-is.
-No warranty, no guarantees.
+Just say the word 👌
