@@ -117,3 +117,6 @@ If you want, I can:
 * 🔹 Add a **Knox-warning banner**
 
 Just say the word 👌
+
+buy me coffee https://buymeacoffee.com/tapman
+
